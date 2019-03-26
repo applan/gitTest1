@@ -1,3 +1,4 @@
 git test
 git 저장소
 앙
+modify라고 떠야 한꺼번에 저장 가능 
